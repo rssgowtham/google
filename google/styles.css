@@ -1,0 +1,53 @@
+#stmt1
+{
+	font-family: 'Open Sans',arial;
+	font-size: 42px;
+	font-weight: 300;
+	color: #555;
+}
+#stmt2
+{
+	font-family: 'Open Sans',arial;
+	font-size: 20px;
+	font-weight: 100;
+}
+#stmt3
+{
+	font-family: 'Open Sans',arial;
+	font-size: 20px;
+	font-weight: 100;
+}
+#form
+{
+	background-color: #f7f7f7;
+	width:300;
+	height:auto;
+	padding: 40px;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4);
+}
+#email
+{
+	font-size: 20;
+	width:300;
+	height:50;
+}
+#password
+{
+	font-size: 20;
+	width:300;
+	height:50;
+}
+#submit
+{
+	font-size: 20;
+	color: white; 
+	background-color: #4d90fe;
+	width:300;
+	height:35;
+}
+#submit:hover
+{
+	background-color: #4d90fe;
+	width:302;
+	height:37;
+}
